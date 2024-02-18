@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UnvUWz2A9qak2yPOcfi6fhYo5cCxwHBmQHiy+9Tfjb8tvywCodLB5N1cZDbz8kg7BQ1YmnWdrW4AqdTjPd5EsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Documents\\לימודים\\תשפד\\פרקטיקוד\\praktikod\\praktikod\\praktikod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
